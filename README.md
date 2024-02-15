@@ -43,13 +43,12 @@
 
 ## 💼 Projetos Destacados
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=Ifood-API&theme=holi" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=api-rest-extrato-bancario&theme=holi" /> <br/>
-</a>  <br/>
-
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/rauansm" style="display: flex;">
+  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=Ifood-API&theme=holi" />
+  <img align="center" height="140em" width= "448px;" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=api-rest-extrato-bancario&theme=holi"  /> 
+ </a>  
+</div>
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> 
 
