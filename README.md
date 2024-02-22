@@ -46,7 +46,7 @@
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/rauansm" style="display: flex;">
   <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=Ifood-API&theme=holi" />
-  <img align="center" height="140em" width= "448px;" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=api-rest-extrato-bancario&theme=holi"  /> 
+  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=rauansm&repo=Sicredi-Assembleia&theme=holi"  /> 
  </a>  
 </div>
   
